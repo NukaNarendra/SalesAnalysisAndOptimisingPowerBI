@@ -1,11 +1,14 @@
 Power BI Performance Analysis Project
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 Overview
+__________________________________________________________________________________________________________________________________________________________________________________________________________
 
 This project focuses on analyzing Power BI performance by integrating data from CSV and MySQL, processing it using Python, and visualizing it in Power BI. The project follows a structured workflow involving data extraction, processing, database management, Power BI analysis, and visualization.
 
 Workflow
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________
 Load the CSV file (pizza.csv) into the Python environment.
 
 Execute the first Python script (main.py) to process the CSV data.
