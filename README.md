@@ -25,7 +25,7 @@ This project focuses on analyzing Power BI performance by integrating data from 
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/YaswanthBellana/PowerBI-Performance-Analysis.git
+git clone https://github.com/NukaNarendra/PowerBI-Performance-Analysis.git
 cd PowerBI-Performance-Analysis
 ```
 
