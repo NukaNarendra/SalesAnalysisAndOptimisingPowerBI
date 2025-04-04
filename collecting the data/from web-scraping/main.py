@@ -32,9 +32,3 @@ if b1 is not None:
         print("Could not find the 'xn-content' div.")
 else:
     print("Could not find 'node_content' div") 
-
-
-import pandas as pd
-
-df = pd.DataFrame(important_points, columns=["Financial Highlights"])
-df.to_csv("dominos_2015_financials.csv", index=False)
